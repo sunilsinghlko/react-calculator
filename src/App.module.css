@@ -1,0 +1,12 @@
+.calculator{
+  max-width: 260px;
+  border-radius: 24px;
+  position: absolute;
+  top:15%;
+  left:20%;
+  border:9px groove rgb(2, 246, 140);
+  background-color: rgb(0, 1, 11);
+  padding:2px;
+}
+
+
